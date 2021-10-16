@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(255, 157, 157);
+}
+ 
+.badan
+{
+    background-color: rgb(155, 127, 233);
+    padding: 13px 20px;
+    margin-top: 95px;
+    color: white;
+}
+
+.peding-100
+{
+    padding: 170px 65px;
+}
+ 
+.peding-30
+{
+    padding: 35px 60px;
+}
